@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'ZSK999.CN',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_5: '写一点自己想写的',
   HEO_HERO_TITLE_LINK: 'https://zsk999.cn',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
